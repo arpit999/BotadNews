@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "257332195289",
+    "firebase_url": "https://botadnews-c5a61.firebaseio.com",
+    "project_id": "botadnews-c5a61",
+    "storage_bucket": "botadnews-c5a61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257332195289:android:78c771ea10f83cb9",
+        "android_client_info": {
+          "package_name": "com.bicubic.botadnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257332195289-pd1uusi447uh6pmt30j2el5ghiqfdd93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bicubic.botadnews",
+            "certificate_hash": "A7D430575F258C90C1D6C59C25147DC4A300B420"
+          }
+        },
+        {
+          "client_id": "257332195289-pjgjrfnsfso5hq877q6339cb4r1koknv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ7kyZywsBdba8bX8s2WTr6ka7hn2sY1E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257332195289-pjgjrfnsfso5hq877q6339cb4r1koknv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

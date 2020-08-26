@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Satya News</string>
+    <string name="action_share">Share Application</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="FCM_PREF">com.bicubic.fcmdemo.fcm_pref</string>
+    <string name="FCM_TOKEN">com.bicubic.fcmdemo.fcm_token</string>
+
+    <string name="facebook_app_id">235954610154132</string>
+        <string name="youtube_api_key">235954610154132</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_gallery">Gallery</string>
+    <string name="nav_item_setting">Setting</string>
+    <string name="nav_item_aboutus">About Us</string>
+    <string name="nav_item_contactus">Contact Us</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_gallery</item>
+        <item>@string/nav_item_setting</item>
+        <item>@string/nav_item_aboutus</item>
+        <item>@string/nav_item_contactus</item>
+    </string-array>
+
+    <!--  <string-array name="nav_drawer_icons">
+        <item>@drawable/ic_map</item>
+        <item>@drawable/ic_map</item>
+        <item>@drawable/ic_action_search</item>
+    </string-array>-->
+
+
+    <string name="title_contactus">Contact Us</string>
+    <string name="title_aboutus">About Us</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_gallery">Gallery</string>
+    <string name="title_home">Home</string>
+
+    <string name="name">Name</string>
+    <string name="city">City (optional)</string>
+    <string name="continue_str">Continue</string>
+    <string name="facebook">Facebook</string>
+    <string name="login_with_facebook">Login with facebook</string>
+    <string name="download">Download</string>
+    <string name="video">Video</string>
+    <string name="gallery">Gallery</string>
+    <string name="data_not_found">Data not found</string>
+    <string name="something_went_wrong">Something went wrong!!</string>
+    <string name="file_downloaded">File downloaded</string>
+    <string name="download_error">Download error</string>
+    <string name="please_connect_to_internet">Please connect to internet</string>
+    <string name="somwthing_went_wrong_try_again">Something went wrong Try again.....</string>
+    <string name="file_already_exists">File already exists !</string>
+    <string name="download_in_background">Download In Background</string>
+    <string name="image">Image</string>
+    <string name="date">Date</string>
+    <string name="notification">Notification</string>
+</resources>
